@@ -44,6 +44,6 @@ A determined student and passionate web developer, always eager to learn and wor
 
 # Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ralfaro17&show_icons=true&theme=radical)
-![GitHub streak](https://streak-stats.demolab.com/?user=Ralfaro17)
-![Starred languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Orrv2904&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ralfaro17&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=Ralfaro17&theme=dracula)
+![Starred languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ralfaro17&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
