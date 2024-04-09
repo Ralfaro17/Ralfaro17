@@ -2,7 +2,7 @@
 
 A determined student and passionate web developer, always eager to learn and working into something
 
-# Tech Stack
+# 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,7 +31,7 @@ A determined student and passionate web developer, always eager to learn and wor
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-# Contact info
+# 🙋‍♂️ Contact info
 
 <div align="left">
   <a href="https://www.instagram.com/roger_alfaro17/" target="_blank">
@@ -42,8 +42,8 @@ A determined student and passionate web developer, always eager to learn and wor
   </a>
 </div>
 
-# Github Stats
+# 📊 Github Stats
 
+![GitHub streak](https://streak-stats.demolab.com/?user=Ralfaro17&theme=dracula)
 ![GitHub stats](https://github-stats-git-master-ralfaro17s-projects.vercel.app/api?username=Ralfaro17&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![Starred languages](https://github-stats-git-master-ralfaro17s-projects.vercel.app/api/top-langs/?username=Ralfaro17&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=400&card_height=600)
-![GitHub streak](https://streak-stats.demolab.com/?user=Ralfaro17&theme=dracula)
