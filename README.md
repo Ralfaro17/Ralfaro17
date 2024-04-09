@@ -34,10 +34,10 @@ A determined student and passionate web developer, always eager to learn and wor
 # Contact info
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/roger-alfaro-06bb842b0/" target="_blank">
+  <a href="https://www.instagram.com/roger_alfaro17/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/erick-saballos/" target="_blank">
+  <a href="https://www.linkedin.com/in/roger-alfaro-06bb842b0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -46,4 +46,4 @@ A determined student and passionate web developer, always eager to learn and wor
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ralfaro17&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub streak](https://streak-stats.demolab.com/?user=Ralfaro17&theme=dracula)
-![Starred languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ralfaro17&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Starred languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ralfaro17&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
