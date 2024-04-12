@@ -1,4 +1,5 @@
 # ¡Hello!, i'm Roger 👋
+and Alexandra is better than me
 
 A determined student and passionate web developer, always eager to learn and working into something
 
