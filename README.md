@@ -54,7 +54,7 @@ A determined student and passionate web developer, always eager to learn and wor
   <a href="https://www.linkedin.com/in/roger-alfaro-06bb842b0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlKFhQLXCQpLqMkxfHBWXslPPXLpSdrFhpmrkTlBZqrZWGJLGPbgcRkbprVkXPSvVXlkWg" target="_blank">
+  <a href="mailto:ralfaros9317@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
