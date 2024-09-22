@@ -1,6 +1,14 @@
 # ¡Hello!, i'm Roger 👋
 
-A determined student and passionate web developer, always eager to learn and working into something
+A determined computer engineering student and passionate web developer, always eager to learn and working into something
+
+- ⚡ Currently doing an internship at CS50x.ni as a teaching assistant
+
+- 🌱 Learning more about DevOps and CI/CD
+
+- 🌐 Aspiring FullStack developer
+
+**"It always seems impossible until it’s done." – Nelson Mandela**
 
 # 💻 Tech Stack
 
@@ -95,16 +103,16 @@ A determined student and passionate web developer, always eager to learn and wor
 
 <div align="left">
   <a href="https://www.facebook.com/roger.alfaro.3785" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3a589f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3a589f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo"  />
   </a>
   <a href="https://www.instagram.com/roger_alfaro17/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/roger-alfaro-06bb842b0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
   </a>
   <a href="mailto:ralfaros9317@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GMail logo"  />
   </a>
 </div>
 
