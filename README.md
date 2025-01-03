@@ -119,7 +119,7 @@ A determined computer engineering student and passionate web developer, always e
 
 # 📊 Github Stats
 
-|![GitHub Streak](https://streak-stats.demolab.com/?user=Ralfaro17&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)|![GitHub stats](https://github-stats-git-master-ralfaro17s-projects.vercel.app/api?username=Ralfaro17&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)|
+|[![GitHub Streak](https://streak-stats.demolab.com/?user=Ralfaro17&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)](https://git.io/streak-stats)|![GitHub stats](https://github-stats-git-master-ralfaro17s-projects.vercel.app/api?username=Ralfaro17&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)|
 |:--------------------------------------:|:----------------------------------------------:|
 ![Starred languages](https://github-stats-git-master-ralfaro17s-projects.vercel.app/api/top-langs/?username=Ralfaro17&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=480&card_height=600)|![CodeFU staff](https://code-fu-readme-badge.vercel.app/badges/ralfaro.svg)
 
