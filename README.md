@@ -8,10 +8,9 @@ A determined computer engineering student and passionate web developer, always e
 
 - 🌐 Aspiring FullStack developer
 
-**"It always seems impossible until it’s done." – Nelson Mandela**
+***"It always seems impossible until it’s done."* – Nelson Mandela**
 
-# 💻 Tech Stack
-
+## 💻 Tech Stack
 
 ### Programming languages
 
@@ -52,7 +51,6 @@ A determined computer engineering student and passionate web developer, always e
 ![three](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
 
-
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -60,19 +58,16 @@ A determined computer engineering student and passionate web developer, always e
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
-
 ### Code Editors
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-
 ### Version Control
 
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 
 ### Cloud
 
@@ -80,14 +75,12 @@ A determined computer engineering student and passionate web developer, always e
 ![AWS_S3](https://img.shields.io/badge/S3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS_SES](https://img.shields.io/badge/SES-DD344C.svg?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white)
 
-
 ### DevOps
 
 ![Railway](https://img.shields.io/badge/Railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 
 ### Other tools and technologies
 
@@ -98,31 +91,15 @@ A determined computer engineering student and passionate web developer, always e
 ![Jira](https://img.shields.io/badge/Jira-%232785ff.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%232785ff.svg?style=for-the-badge&logo=trello&logoColor=white)
 
+## 🙋‍♂️ Contact info
 
-# 🙋‍♂️ Contact info
+[![Facebook](https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3a589f&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/roger.alfaro.3785)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/roger_alfaro17/)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/ralfaro17/)
+[![GMail](https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge)](mailto:ralfaros9317@gmail.com)
 
-<div align="left">
-  <a href="https://www.facebook.com/roger.alfaro.3785" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3a589f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/roger_alfaro17/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/roger-alfaro-06bb842b0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
-  </a>
-  <a href="mailto:ralfaros9317@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GMail logo"  />
-  </a>
-</div>
+## 📊 Github Stats
 
-
-# 📊 Github Stats
-
-|[![GitHub Streak](https://github-readme-streak-stats-orpin-theta.vercel.app?user=Ralfaro17&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)](https://git.io/streak-stats)|![GitHub stats](https://github-stats-git-master-ralfaro17s-projects.vercel.app/api?username=Ralfaro17&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)|
+|[![GitHub Streak](https://github-readme-streak-stats-rose-ten-69.vercel.app?user=Ralfaro17&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)](https://git.io/streak-stats)|![GitHub stats](https://github-stats-git-master-ralfaro17s-projects.vercel.app/api?username=Ralfaro17&show_icons=true&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)|
 |:--------------------------------------:|:----------------------------------------------:|
-![Starred languages](https://github-stats-git-master-ralfaro17s-projects.vercel.app/api/top-langs/?username=Ralfaro17&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=480&card_height=600)|![CodeFU staff](https://code-fu-readme-badge-1c0198600f3b.herokuapp.com/badges/ralfaro.svg)
-
-
-
-
+|![Starred languages](https://github-stats-git-master-ralfaro17s-projects.vercel.app/api/top-langs/?username=Ralfaro17&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=480&card_height=600)|![CodeFU staff](https://code-fu-readme-badge-1c0198600f3b.herokuapp.com/badges/ralfaro.svg)|
